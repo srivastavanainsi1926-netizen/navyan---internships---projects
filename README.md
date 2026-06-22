@@ -3,7 +3,7 @@
 ## Project 1: Sales Data Analysis Dashboard
 File: Project1-sales-data-analysis-dashboard.pbix
 Dashboard Preview (PDF): Project1-sales-data-analysis-dashboard.pdf
-Pdf link:file:///C:/Users/lenovo/AppData/Local/Temp/Power%20BI%20Desktop/print-job-7c4a764a-070e-4a18-9f01-1358894c8c71/Project1-sales-data-analysis-dashboard..pdf
+file:///C:/Users/lenovo/AppData/Local/Temp/Power%20BI%20Desktop/print-job-7c4a764a-070e-4a18-9f01-1358894c8c71/Project1-sales-data-analysis-dashboard..pdf
 
 ## Project 2: Customer Segmentation Analysis
 File: Project_2_CustomerSegmentatin_Nainsi_Srivastava.ipynb
